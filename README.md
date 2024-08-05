@@ -9,7 +9,7 @@ Following are the contributing members of the SOFT3888 project
 - [x] Joey Chen 
 - [x] Aryan Adhikari
 - [x] Gabriel Perez
-- [x] 
+- [x] Eric Ma
 - [x] 
 - [x] 
 - [x] 
