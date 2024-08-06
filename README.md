@@ -12,4 +12,4 @@ Following are the contributing members of the SOFT3888 project
 - [x] Eric Ma
 - [x] Taozhao Chen
 - [x] 
-- [x] 
+
